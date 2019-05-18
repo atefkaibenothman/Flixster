@@ -13,9 +13,6 @@
 ### App Walkthough GIF
 <img src="http://g.recordit.co/yMUeBg79l6.gif" width=250><br>
 
-### Notes
-Describe any challenges encountered while building the app:
-
 # Flix
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
@@ -37,5 +34,3 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 <img src="http://g.recordit.co/Y2Pb5Dyw4S.gif" width=250><br>
 
-### Notes
-Challenges:
